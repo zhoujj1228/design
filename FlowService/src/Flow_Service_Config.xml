@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<service>
+		<flow name = "callend" type = "service">
+			<flow name = "call3" method = "call3"  type = "method" classId = "GetPersonInfoService"/>
+		</flow>
+		<flow name = "getPersonInfo" type = "service">
+			<flow name = "call1" method = "call1" type = "method" classId = "GetPersonInfoService"/>
+			<flow name = "call2" method = "call2" type = "method" classId = "GetPersonInfoService"/>
+			<flow name = "callend" type = "mapping" mappingId = "callend"/>
+			<flow name = "callother" type = "service">
+				<flow name = "call1" method = "call1" type = "method" classId = "GetPersonInfoService"/>
+			</flow>
+		</flow>
+	</service>
+	
+	<service-classes>
+		<class id = "GetPersonInfoService" class="service.GetPersonInfoService"/>
+	</service-classes>
+	
+	<ext-config-file path = "service/"/>
+</config>

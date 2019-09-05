@@ -1,0 +1,1604 @@
+<div class="m_box hold_detail z100" id="flowholder" stat="holder_flowholder">
+	<div class="hd">
+		<h2>
+			<span class="iwcclick" taname="f10_stock_iwc_sdltgd" content="可以交易的前十个股东称之为十大流通股东。"
+				data-url="http://www.iwencai.com/yike/detail/auid/bbdb4e0069912325?qs=client_f10_baike_9">十大流通股东</span>
+		</h2>
+	</div>
+	<div class="bd pt5" id="bd_list1">
+		<div id="bd_1">
+			<div class="m_tab mt15">
+				<ul>
+					<li name="fher_1" class="cur">
+						<a class="fdates" href="javascript:void(0)" targ="fher_1">2017-06-30</a>
+					</li>
+					<li name="fher_2">
+						<a class="fdates" href="javascript:void(0)" targ="fher_2">2017-03-31</a>
+					</li>
+					<li name="fher_3">
+						<a class="fdates" href="javascript:void(0)" targ="fher_3">2016-12-31</a>
+					</li>
+					<li name="fher_4">
+						<a class="fdates" href="javascript:void(0)" targ="fher_4">2016-09-30</a>
+					</li>
+					<li name="fher_5">
+						<a class="fdates" href="javascript:void(0)" targ="fher_5">2016-06-30</a>
+					</li>
+				</ul>
+			</div>
+			<div class="m_tab_content2 clearfix" id="fher_1">
+				<table class="m_table m_hl ggintro" style="table-layout:fixed;word-wrap:break-word;">
+					<caption class="p5_0 tl tip f14">
+						前十大流通股东累计持有：
+						<em>2276.42万股</em>
+						，累计占流通股比：
+						<em>56.07%</em>
+						，较上期变化：
+						<span class="upcolor">2002.29万股</span>
+						<s class="up"></s>
+						<p>
+							变动原因1:2017-04-28实施
+							<span class="upcolor">限售解禁2225.00万股</span>
+							致本期流通股本基础值较上期增长
+							<span class="upcolor">30.33%</span>
+						</p>
+					</caption>
+					<thead>
+						<tr>
+							<th style="width:309px">机构或基金名称</th>
+							<th style="width:82px">持有数量(股)</th>
+							<th style="width:85px">持股变化(股)</th>
+							<th>占流通股比例</th>
+							<th style="width:68px">
+								机构成本估算(元)
+								<span class="gd_ques iwcclick" taname="f10_stock_iwc_cbgsbk"
+									data-url="http://www.iwencai.com/yike/detail/auid/fd14fbc180f05d69?qs=client_f10_baike_14"
+									tag="syl"
+									content="机构持股成本是计算机构（暂不含个人）从进入到现在的持仓成本价。通俗的算法就是，每个季度买卖股票所花的钱/当前股份数量。"></span>
+								<br />
+								<span class="f10_append_fd_btn">[反馈]</span>
+							</th>
+							<th style="width:70px">实际增减持</th>
+							<th style="width:55px">股份类型</th>
+							<th style="width:58px">持股详情</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);" onclick="javascript:gd_showBox(1, 'T000282445', '603822');">君润国际投资有限公司</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>995.00万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>24.51%</td>
+							<td>其它</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'T000282445', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a orgid="T000366211" onmouseenter="sendTalog('f10_stock_holder_click_ggsjdetail')"
+									class="institionName" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'T000366211', '603822');">桐乡中祥化纤有限公司</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>475.00万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>11.70%</td>
+							<td>其它</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'T000366211', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);" onclick="javascript:gd_showBox(1, 'T000282483', '603822');">HOST VANTAGE ASIA
+									LIMITED</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>380.00万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>9.36%</td>
+							<td>其它</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'T000282483', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a orgid="T000113990" onmouseenter="sendTalog('f10_stock_holder_click_ggsjdetail')"
+									class="institionName" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'T000113990', '603822');">浙江瓯联创业投资有限公司</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>365.00万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>8.99%</td>
+							<td>69.33</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'T000113990', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '08c3a3372caa3528cfb5982ef5cf3906', '603822');">施燕</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>14.37万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.35%</td>
+							<td>个人</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '08c3a3372caa3528cfb5982ef5cf3906', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'd9bdba47db8ab6f47c82b0f8744f39f3', '603822');">葛历峰</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>11.22万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.28%</td>
+							<td>个人</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'd9bdba47db8ab6f47c82b0f8744f39f3', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'fcbfebe468dd4522068bde236ab1d37d', '603822');">黄建艺</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>9.80万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.24%</td>
+							<td>个人</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'fcbfebe468dd4522068bde236ab1d37d', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);" onclick="javascript:gd_showBox(1, 'KF6952', '603822');">中国工商银行股份有限公司-汇添富中证环境治理指数型证券投资基金(LOF)
+								</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>8.79万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.22%</td>
+							<td>其它</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'KF6952', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '2b7cfc2c8785ea831cb948188d468eed', '603822');">陈春妹</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>8.63万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.21%</td>
+							<td>个人</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '2b7cfc2c8785ea831cb948188d468eed', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);" onclick="javascript:gd_showBox(1, 'KF4783', '603822');">中信银行股份有限公司-交银施罗德中证环境治理指数型证券投资基金(LOF)
+								</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>8.61万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.21%</td>
+							<td>其它</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'KF4783', '603822');">点击查看</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="m_table m_hl" style="table-layout:fixed;">
+					<tbody>
+						<tr class="m_th">
+							<th colspan="7"> 较上个报告期退出前十大流通股东有							</th>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">施惠芳</th>
+							<td style="width:50px">38.71万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">2.11</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">高晓利</th>
+							<td style="width:50px">31.77万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.73</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">张小波</th>
+							<td style="width:50px">30.43万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.66</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">高峰</th>
+							<td style="width:50px">30.08万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.64</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">张洪</th>
+							<td style="width:50px">28.47万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.55</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">谢媛媛</th>
+							<td style="width:50px">26.01万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.42</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">付永强</th>
+							<td style="width:50px">24.51万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.34</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">徐晨晨</th>
+							<td style="width:50px">22.90万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.25</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">杨照</th>
+							<td style="width:50px">21.40万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.17</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">潘文梓</th>
+							<td style="width:50px">19.85万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.08</td>
+							<td style="width:68px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="m_tab_content2 clearfix" id="fher_2" style="display:none;">
+				<table class="m_table m_hl ggintro" style="table-layout:fixed;word-wrap:break-word;">
+					<caption class="p5_0 tl tip f14">
+						前十大流通股东累计持有：
+						<em>274.13万股</em>
+						，累计占流通股比：
+						<em>14.95%</em>
+						，较上期变化：
+						<span class="upcolor">176.23万股</span>
+						<s class="up"></s>
+					</caption>
+					<thead>
+						<tr>
+							<th style="width:309px">机构或基金名称</th>
+							<th style="width:82px">持有数量(股)</th>
+							<th style="width:85px">持股变化(股)</th>
+							<th>占流通股比例</th>
+							<th style="width:70px">实际增减持</th>
+							<th style="width:55px">股份类型</th>
+							<th style="width:58px">持股详情</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '926a685493f7e13d0fd646c7c7c9c8c9', '603822');">施惠芳</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>38.71万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>2.11%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '926a685493f7e13d0fd646c7c7c9c8c9', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'b543b92cf07648eb7a7a3c476d8026b8', '603822');">高晓利</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>31.77万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.73%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'b543b92cf07648eb7a7a3c476d8026b8', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '9c21bde5c10e2aa640a388ec78bf9748', '603822');">张小波</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>30.43万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.66%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '9c21bde5c10e2aa640a388ec78bf9748', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '4e4bffb08f5dbec4ad01ad5c6b1b974b', '603822');">高峰</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>30.08万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.64%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '4e4bffb08f5dbec4ad01ad5c6b1b974b', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'a23d742bdfdfd70382a781b9e3e3c016', '603822');">张洪</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>28.47万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.55%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'a23d742bdfdfd70382a781b9e3e3c016', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '28b40fb9b1e3f9842f85e934bbaf8f89', '603822');">谢媛媛</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>26.01万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.42%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '28b40fb9b1e3f9842f85e934bbaf8f89', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'd37d2e97e45467be6331eea487c6c836', '603822');">付永强</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>24.51万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.34%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'd37d2e97e45467be6331eea487c6c836', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '1385b26c0599aa5d67074c14158681c7', '603822');">徐晨晨</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>22.90万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.25%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '1385b26c0599aa5d67074c14158681c7', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'db0741f30f803f455049bd4c7fd212d1', '603822');">杨照</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>21.40万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.17%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'db0741f30f803f455049bd4c7fd212d1', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'fa2c5b8c8485d150d3bc0a769d62c917', '603822');">潘文梓</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>19.85万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.08%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'fa2c5b8c8485d150d3bc0a769d62c917', '603822');">点击查看</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="m_table m_hl" style="table-layout:fixed;">
+					<tbody>
+						<tr class="m_th">
+							<th colspan="7"> 较上个报告期退出前十大流通股东有							</th>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">潘向前</th>
+							<td style="width:50px">15.15万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.83</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">李明彪</th>
+							<td style="width:50px">15.00万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.82</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">彭群英</th>
+							<td style="width:50px">12.26万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.67</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">李自君</th>
+							<td style="width:50px">9.57万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.52</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">李晓燕</th>
+							<td style="width:50px">8.80万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.48</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">曹君宏</th>
+							<td style="width:50px">8.75万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.48</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">徐正祥</th>
+							<td style="width:50px">7.20万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.39</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">赵跃其</th>
+							<td style="width:50px">7.19万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.39</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">陈春妹</th>
+							<td style="width:50px">7.10万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.39</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">张伟阳</th>
+							<td style="width:50px">6.88万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.37</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="m_tab_content2 clearfix" id="fher_3" style="display:none;">
+				<table class="m_table m_hl ggintro" style="table-layout:fixed;word-wrap:break-word;">
+					<caption class="p5_0 tl tip f14">
+						前十大流通股东累计持有：
+						<em>97.90万股</em>
+						，累计占流通股比：
+						<em>5.34%</em>
+						，较上期变化：
+						<span class="upcolor">9.49万股</span>
+						<s class="up"></s>
+					</caption>
+					<thead>
+						<tr>
+							<th style="width:309px">机构或基金名称</th>
+							<th style="width:82px">持有数量(股)</th>
+							<th style="width:85px">持股变化(股)</th>
+							<th>占流通股比例</th>
+							<th style="width:70px">实际增减持</th>
+							<th style="width:55px">股份类型</th>
+							<th style="width:58px">持股详情</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'a227e5d38a28a28ccf0299cf1e81eff7', '603822');">潘向前</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>15.15万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.83%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'a227e5d38a28a28ccf0299cf1e81eff7', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '0f31bc6b80050308e2329ced86201740', '603822');">李明彪</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>15.00万</td>
+							<td>
+								<s class="down"></s>
+								<span class="downcolor">-13.00万</span>
+							</td>
+							<td>0.82%</td>
+							<td>
+								<s class="down"></s>
+								<span class="downcolor">-46.43%</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '0f31bc6b80050308e2329ced86201740', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'c6b29adc5bc21398a1f0c501b4d1b755', '603822');">彭群英</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>12.26万</td>
+							<td>
+								<s class="up"></s>
+								<span class="upcolor">4.26万</span>
+							</td>
+							<td>0.67%</td>
+							<td>
+								<s class="up"></s>
+								<span class="upcolor">53.25%</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'c6b29adc5bc21398a1f0c501b4d1b755', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '7359c3836bc945ea0d7ea12ba19fd355', '603822');">李自君</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>9.57万</td>
+							<td>
+								<s class="up"></s>
+								<span class="upcolor">3.53万</span>
+							</td>
+							<td>0.52%</td>
+							<td>
+								<s class="up"></s>
+								<span class="upcolor">58.44%</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '7359c3836bc945ea0d7ea12ba19fd355', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '826d6611f9a01856b7c0c5f6446ad430', '603822');">李晓燕</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>8.80万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.48%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '826d6611f9a01856b7c0c5f6446ad430', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'bd328e3581f251c5098575c459269e45', '603822');">曹君宏</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>8.75万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.48%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'bd328e3581f251c5098575c459269e45', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '58f8efadc8381e82ab2a54136d17905b', '603822');">徐正祥</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>7.20万</td>
+							<td>
+								<s class="up"></s>
+								<span class="upcolor">2000.00</span>
+							</td>
+							<td>0.39%</td>
+							<td>
+								<s class="up"></s>
+								<span class="upcolor">2.86%</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '58f8efadc8381e82ab2a54136d17905b', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'ab82c515cad517ecf7f50b2d0490d35c', '603822');">赵跃其</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>7.19万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.39%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'ab82c515cad517ecf7f50b2d0490d35c', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '2b7cfc2c8785ea831cb948188d468eed', '603822');">陈春妹</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>7.10万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.39%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '2b7cfc2c8785ea831cb948188d468eed', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '461995fb9bffb90df46d617a6bfd0197', '603822');">张伟阳</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.88万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.37%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '461995fb9bffb90df46d617a6bfd0197', '603822');">点击查看</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="m_table m_hl" style="table-layout:fixed;">
+					<tbody>
+						<tr class="m_th">
+							<th colspan="7"> 较上个报告期退出前十大流通股东有							</th>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">张文琼</th>
+							<td style="width:50px">7.50万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.41</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">孙阳年</th>
+							<td style="width:50px">6.94万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.38</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">项超俊</th>
+							<td style="width:50px">6.81万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.37</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">罗晓华</th>
+							<td style="width:50px">6.06万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.33</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">楼月芳</th>
+							<td style="width:50px">6.05万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.33</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">陈红武</th>
+							<td style="width:50px">6.01万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.33</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="m_tab_content2 clearfix" id="fher_4" style="display:none;">
+				<table class="m_table m_hl ggintro" style="table-layout:fixed;word-wrap:break-word;">
+					<caption class="p5_0 tl tip f14">
+						前十大流通股东累计持?校?
+						<em>88.41万股</em>
+						，累计占流通股比：
+						<em>4.83%</em>
+						，较上期变化：
+						<span class="downcolor">-66.37万股</span>
+						<s class="down"></s>
+					</caption>
+					<thead>
+						<tr>
+							<th style="width:309px">机构或基金名称</th>
+							<th style="width:82px">持有数量(股)</th>
+							<th style="width:85px">持股变化(股)</th>
+							<th>占流通股比例</th>
+							<th style="width:70px">实际增减持</th>
+							<th style="width:55px">股份类型</th>
+							<th style="width:58px">持股详情</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '0f31bc6b80050308e2329ced86201740', '603822');">李明彪</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>28.00万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.53%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '0f31bc6b80050308e2329ced86201740', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'c6b29adc5bc21398a1f0c501b4d1b755', '603822');">彭群英</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>8.00万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.44%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'c6b29adc5bc21398a1f0c501b4d1b755', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '4062277b4b1f4c189e255acd1a0d2f61', '603822');">张文琼</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>7.50万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.41%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '4062277b4b1f4c189e255acd1a0d2f61', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '58f8efadc8381e82ab2a54136d17905b', '603822');">徐正祥</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>7.00万</td>
+							<td>
+								<s></s>
+								不变
+							</td>
+							<td>0.38%</td>
+							<td>
+								<s></s>
+								不变
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '58f8efadc8381e82ab2a54136d17905b', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '2b033f75626c389c15216ac5a34f9545', '603822');">孙阳年</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.94万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.38%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '2b033f75626c389c15216ac5a34f9545', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'df2230b7c661c2f8e99ae6bc0800f492', '603822');">项超俊</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.81万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.37%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'df2230b7c661c2f8e99ae6bc0800f492', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'deba49beffe8a0c74a5205371b400958', '603822');">罗晓华</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.06万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.33%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'deba49beffe8a0c74a5205371b400958', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '2a4cd896ae9e581d47b16ea752c6319d', '603822');">楼月芳</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.05万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.33%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '2a4cd896ae9e581d47b16ea752c6319d', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '7359c3836bc945ea0d7ea12ba19fd355', '603822');">李自君</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.04万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.33%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '7359c3836bc945ea0d7ea12ba19fd355', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '414099f7eb5dfda56ca3967c3b2c5ecf', '603822');">陈红武</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.01万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.33%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '414099f7eb5dfda56ca3967c3b2c5ecf', '603822');">点击查看</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="m_table m_hl" style="table-layout:fixed;">
+					<tbody>
+						<tr class="m_th">
+							<th colspan="7"> 较上个报告期退出前十大流通股东有							</th>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">董泽清</th>
+							<td style="width:50px">58.00万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">3.16</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">中国建设银行股份有限公司-华商万众创新灵活配置混合型证券投资基金</th>
+							<td style="width:50px">19.70万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.07</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">天津易鑫安资产管理有限公司-易鑫安资管鑫安6期</th>
+							<td style="width:50px">19.61万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">1.07</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">方琦霓</th>
+							<td style="width:50px">14.11万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.77</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">中信信托有限责任公司-上海建行822</th>
+							<td style="width:50px">9.38万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.51</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">赵玉生</th>
+							<td style="width:50px">6.99万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.38</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">万红梅</th>
+							<td style="width:50px">6.80万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.37</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">张金喜</th>
+							<td style="width:50px">6.76万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.37</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+						<tr class="gray">
+							<th class="tl" style="width:257px">陈曙光</th>
+							<td style="width:50px">6.43万股</td>
+							<td style="width:50px">退出</td>
+							<td style="width:50px">0.35</td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+							<td style="width:50px"></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="m_tab_content2 clearfix" id="fher_5" style="display:none;">
+				<table class="m_table m_hl ggintro" style="table-layout:fixed;word-wrap:break-word;">
+					<caption class="p5_0 tl tip f14">
+						前十大流通股东累计持有：
+						<em>154.78万股</em>
+						，累计占流通股比：
+						<em>8.43%</em>
+						，较上期变化：
+						<span class="upcolor">154.78万股</span>
+						<s class="up"></s>
+						<p>
+							变动原因1:2016-04-28实施
+							<span class="upcolor">限售解禁1835.00万股</span>
+							致本期流通股本基础值较上期增长
+							<span class="upcolor">25.02%</span>
+						</p>
+					</caption>
+					<thead>
+						<tr>
+							<th style="width:309px">机构或基金名称</th>
+							<th style="width:82px">持有数量(股)</th>
+							<th style="width:85px">持股变化(股)</th>
+							<th>占流通股比例</th>
+							<th style="width:70px">实际增减持</th>
+							<th style="width:55px">股份类型</th>
+							<th style="width:58px">持股详情</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'da265c932ea7d4ee7a65ed1739ee615d', '603822');">董泽清</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>58.00万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>3.16%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'da265c932ea7d4ee7a65ed1739ee615d', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);" onclick="javascript:gd_showBox(1, 'KF5875', '603822');">中国建设银行股份有限公司-华商万众创新灵活配置混合型证券投资基金
+								</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>19.70万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.07%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'KF5875', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);" onclick="javascript:gd_showBox(1, 'T000255640', '603822');">天津易鑫安资产管理有限公司-易鑫安资管鑫安6期
+								</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>19.61万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>1.07%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'T000255640', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '68b38e500f18a53458c9891dca9135f0', '603822');">方琦霓</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>14.11万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.77%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '68b38e500f18a53458c9891dca9135f0', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);" onclick="javascript:gd_showBox(1, 'T000569331', '603822');">中信信托有限责任公司-上海建行822</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>9.38万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.51%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'T000569331', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '58f8efadc8381e82ab2a54136d17905b', '603822');">徐正祥</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>7.00万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.38%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '58f8efadc8381e82ab2a54136d17905b', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '0a5ab69b4d9cdb4bb37e9ababbb9bc36', '603822');">赵玉生</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.99万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.38%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '0a5ab69b4d9cdb4bb37e9ababbb9bc36', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '33cdf594aca1ef719d9df757d012b47f', '603822');">万红梅</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.80万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.37%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, '33cdf594aca1ef719d9df757d012b47f', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'ec347284eb4307dea39c2e0810314a78', '603822');">张金喜</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.76万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.37%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'ec347284eb4307dea39c2e0810314a78', '603822');">点击查看</a>
+							</td>
+						</tr>
+						<tr>
+							<th class="tl holder_th">
+								<a href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'ffcecc30d4a859485ac338fc428e1b8f', '603822');">陈曙光</a>
+								<div class="gssjBox hidden "></div>
+							</th>
+							<td>6.43万</td>
+							<td>
+								<s></s>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>0.35%</td>
+							<td>
+								<span class="upcolor">新进</span>
+							</td>
+							<td>流通A股</td>
+							<td>
+								<a class="color-blue" href="javascript:void(0);"
+									onclick="javascript:gd_showBox(1, 'ffcecc30d4a859485ac338fc428e1b8f', '603822');">点击查看</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table class="m_table m_hl" style="table-layout:fixed;">
+					<tbody></tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	<div class="ft"></div>
+</div>
